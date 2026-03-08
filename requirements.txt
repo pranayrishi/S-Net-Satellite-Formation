@@ -1,0 +1,7 @@
+numpy>=1.24
+scipy>=1.11
+matplotlib>=3.7
+sgp4>=2.22
+nrlmsise00>=0.0.2
+astropy>=5.3
+pandas>=2.0
